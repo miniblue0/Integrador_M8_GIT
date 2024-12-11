@@ -23,16 +23,16 @@ Este proyecto demuestra la aplicación de conceptos fundamentales de Git y GitHu
    ```bash
     git los --oneline
    ```
-  Deberia verse algo como esto:
-   ```text
-   c841e38 (HEAD -> feature, origin/feature) se resolvieron los conflictos en README.md
-   26326cc se resolvieron los conflictos en README.md
-   7ac11ae Update README.md
-   2156209 (origin/main) Update README.md
-   bad7f24 Update README.md
-   133330c Update README.md
-   346577d Update README.md
-   3ad97c9 Merge pull request #1 from miniblue0/feature
-   943aff8 Se creo el archivo README.md
-   33da908 (origin/master, master, main) add README
+   Deberia verse algo como esto:
+   ```bash
+    c841e38 (HEAD -> feature, origin/feature) se resolvieron los conflictos en README.md
+    26326cc se resolvieron los conflictos en README.md
+    7ac11ae Update README.md
+    2156209 (origin/main) Update README.md
+    bad7f24 Update README.md
+    133330c Update README.md
+    346577d Update README.md
+    3ad97c9 Merge pull request #1 from miniblue0/feature
+    943aff8 Se creo el archivo README.md
+    33da908 (origin/master, master, main) add README
    ``` 
